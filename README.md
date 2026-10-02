@@ -1,5 +1,12 @@
-Plataforma Académica
-Proyecto del taller Gestión colaborativa de un proyecto con Git y GitHub, asignatura Ingeniería de Software III, Universidad UNINCCA de Colombia.
+# Plataforma Académica
+
+Proyecto del taller **Gestión colaborativa de un proyecto con Git y GitHub**, asignatura Ingeniería de Software III, Universidad UNINCCA de Colombia.
+
+## Integrante
+
+- Carlos Garcia
+
+## Descripción
 
 Integrante
 Carlos Garcia
