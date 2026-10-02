@@ -4,7 +4,7 @@ Proyecto del taller **Gestión colaborativa de un proyecto con Git y GitHub**, a
 
 ## Integrante
 
-- Carlos [apellidos]
+- Carlos Garcia
 
 ## Descripción
 
